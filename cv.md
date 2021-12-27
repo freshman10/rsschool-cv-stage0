@@ -1,12 +1,11 @@
 # [rsschool-cv](https://github.com/freshman10/rsschool-cv/tree/gh-pages)
 
----
 
 ![me](monkey-ape-coder-logo-mascot-programmer-vector-28641464.jpg)
 
 ## Alexander Marunich
 
----
+
 
 #### Junior Frontend Developer
 
@@ -15,9 +14,13 @@
 #### Contact information:
 
 **Phone:** +375 29 2530149
+
 **E-mail:** alexander.marunich.89@gmail.com
+
 **Telegram:** @SnikersXXL
+
 **Discord:** @freshman10
+
 [LinkedIn](https://www.linkedin.com/in/alexander-marunich/)
 
 ---
@@ -54,7 +57,7 @@ def make_readable(seconds):
 
 ---
 
-####Recent and Major Projects
+#### Recent and Major Projects
 
 - Symbol recognition of any font from screen.
 - Poker helper with saved precomputed solutions in DB.
@@ -80,7 +83,7 @@ def make_readable(seconds):
 
 ---
 
-####Languages:
+#### Languages:
 
 - English - Intermediate
 - Russian - Native
