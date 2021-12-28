@@ -1,6 +1,6 @@
 # [rsschool-cv](https://github.com/freshman10/rsschool-cv/tree/gh-pages)
 
-![me](monkey-ape-coder-logo-mascot-programmer-vector-28641464.jpg)
+![me](monkey-ape-coder-logo-mascot-programmer-vector-2864146.jpg)
 
 ## Alexander Marunich
 
