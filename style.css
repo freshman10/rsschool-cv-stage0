@@ -36,7 +36,11 @@
 .center-text {
   text-align: center;
 }
+<<<<<<< HEAD
 #highlight {
+=======
+.highlight {
+>>>>>>> 479ef9ddacb775786749c4fa9894358c3b9acdb7
   color: brown;
 }
 
